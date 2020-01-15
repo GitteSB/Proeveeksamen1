@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TCPServerBilAfgift", "TCPServerBilAfgift.csproj", "{01636B94-5335-4D67-AB99-CC33F3591BB3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01636B94-5335-4D67-AB99-CC33F3591BB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01636B94-5335-4D67-AB99-CC33F3591BB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01636B94-5335-4D67-AB99-CC33F3591BB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01636B94-5335-4D67-AB99-CC33F3591BB3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {418814CC-CD4A-48E0-A2E8-7A8F6B70C8EA}
+	EndGlobalSection
+EndGlobal

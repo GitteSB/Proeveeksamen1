@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Sevel\\source\\repos\\BilAfgift\\BilAfgift.csproj",
+      "projectUniqueName": "C:\\Users\\Sevel\\source\\repos\\GitteSB\\Proeveeksamen1\\BilAfgift\\BilAfgift.csproj",
       "projectName": "BilAfgift",
-      "projectPath": "C:\\Users\\Sevel\\source\\repos\\BilAfgift\\BilAfgift.csproj",
+      "projectPath": "C:\\Users\\Sevel\\source\\repos\\GitteSB\\Proeveeksamen1\\BilAfgift\\BilAfgift.csproj",
       "packagesPath": "C:\\Users\\Sevel\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Sevel\\source\\repos\\BilAfgift\\obj\\",
+      "outputPath": "C:\\Users\\Sevel\\source\\repos\\GitteSB\\Proeveeksamen1\\BilAfgift\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Sevel\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -58,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
       }
     }
   }

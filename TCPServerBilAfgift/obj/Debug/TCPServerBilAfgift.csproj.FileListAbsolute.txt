@@ -1,0 +1,9 @@
+C:\Users\Sevel\source\repos\GitteSB\Proeveeksamen1\TCPServerBilAfgift\obj\Debug\TCPServerBilAfgift.csprojAssemblyReference.cache
+C:\Users\Sevel\source\repos\GitteSB\Proeveeksamen1\TCPServerBilAfgift\bin\Debug\TCPServerBilAfgift.exe.config
+C:\Users\Sevel\source\repos\GitteSB\Proeveeksamen1\TCPServerBilAfgift\bin\Debug\TCPServerBilAfgift.exe
+C:\Users\Sevel\source\repos\GitteSB\Proeveeksamen1\TCPServerBilAfgift\bin\Debug\TCPServerBilAfgift.pdb
+C:\Users\Sevel\source\repos\GitteSB\Proeveeksamen1\TCPServerBilAfgift\bin\Debug\BilAfgift.dll
+C:\Users\Sevel\source\repos\GitteSB\Proeveeksamen1\TCPServerBilAfgift\bin\Debug\BilAfgift.pdb
+C:\Users\Sevel\source\repos\GitteSB\Proeveeksamen1\TCPServerBilAfgift\obj\Debug\TCPServerBilAfgift.csproj.CopyComplete
+C:\Users\Sevel\source\repos\GitteSB\Proeveeksamen1\TCPServerBilAfgift\obj\Debug\TCPServerBilAfgift.exe
+C:\Users\Sevel\source\repos\GitteSB\Proeveeksamen1\TCPServerBilAfgift\obj\Debug\TCPServerBilAfgift.pdb

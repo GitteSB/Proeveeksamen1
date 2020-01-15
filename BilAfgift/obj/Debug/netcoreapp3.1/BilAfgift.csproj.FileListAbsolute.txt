@@ -6,3 +6,11 @@ C:\Users\Sevel\source\repos\BilAfgift\obj\Debug\netcoreapp3.1\BilAfgift.Assembly
 C:\Users\Sevel\source\repos\BilAfgift\obj\Debug\netcoreapp3.1\BilAfgift.AssemblyInfo.cs
 C:\Users\Sevel\source\repos\BilAfgift\obj\Debug\netcoreapp3.1\BilAfgift.dll
 C:\Users\Sevel\source\repos\BilAfgift\obj\Debug\netcoreapp3.1\BilAfgift.pdb
+C:\Users\Sevel\source\repos\GitteSB\Proeveeksamen1\BilAfgift\bin\Debug\netcoreapp3.1\BilAfgift.deps.json
+C:\Users\Sevel\source\repos\GitteSB\Proeveeksamen1\BilAfgift\bin\Debug\netcoreapp3.1\BilAfgift.dll
+C:\Users\Sevel\source\repos\GitteSB\Proeveeksamen1\BilAfgift\bin\Debug\netcoreapp3.1\BilAfgift.pdb
+C:\Users\Sevel\source\repos\GitteSB\Proeveeksamen1\BilAfgift\obj\Debug\netcoreapp3.1\BilAfgift.csprojAssemblyReference.cache
+C:\Users\Sevel\source\repos\GitteSB\Proeveeksamen1\BilAfgift\obj\Debug\netcoreapp3.1\BilAfgift.AssemblyInfoInputs.cache
+C:\Users\Sevel\source\repos\GitteSB\Proeveeksamen1\BilAfgift\obj\Debug\netcoreapp3.1\BilAfgift.AssemblyInfo.cs
+C:\Users\Sevel\source\repos\GitteSB\Proeveeksamen1\BilAfgift\obj\Debug\netcoreapp3.1\BilAfgift.dll
+C:\Users\Sevel\source\repos\GitteSB\Proeveeksamen1\BilAfgift\obj\Debug\netcoreapp3.1\BilAfgift.pdb
